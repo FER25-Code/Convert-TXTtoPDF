@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="WebContent/WEB-INF/lib"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_31">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0 (3)">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/SERS/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/Clco/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/API-pdf/convertapi-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/javamail-1.4/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/mysql-connector-java-5.1.15-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/appengine-awt-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/commons-cli-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/fr.opensagres.xdocreport.itext.extension-gae-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/icu4j-4.8.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/itext-gae-4.2.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/jodconverter-core-3.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/json-20090211.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/juh-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/junit-4.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/jurt-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/ooxml-schemas-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/org.apache.poi.xwpf.converter.core-gae-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/org.apache.poi.xwpf.converter.pdf-gae-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/poi-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/poi-ooxml-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/poi-ooxml-schemas-3.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/ridl-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/sfntly-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/unoil-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FERGANI/Desktop/9raya/NewPdf/iText-2.1.7.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
